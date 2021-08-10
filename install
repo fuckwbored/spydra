@@ -1,0 +1,12 @@
+pip3 install requests_html
+pip3 install whatportis
+pip3 install requests
+pip3 install scapy
+pip3 install datetime
+pip3 install socket 
+pip3 install bs4
+apt install python3-colorama
+pip3 install urljoin
+pip3 install urllib
+echo -e "\e[1;31m SPYDRA INSTALLED \e[0m"
+python3 spydra.py
