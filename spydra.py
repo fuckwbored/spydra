@@ -20,7 +20,11 @@ print("\033[31m          /d-       `-///:-        :d:      ")
 print("\033[31m         :d:                        /d-     ")
 print("\033[31m        -d/                          +d.    ")
 print("\033[31m        .:                            :-    ")
-print("\033[48;5;236m\033[38;5;231spydra \033[38;5;208mToolKit\033[0;0m")
+print("""+------------------------------+
+	 |github.com/fuckwbored/spydra	|
+	 |t.me/termuxqew             	|
+	 +------------------------------+
+print("\033[48;5;236m\033[38;5;231 Spydra \033[38;5;208mToolKit\033[0;0m")
 print("---------------                 --------------------------")
 print("TERMUX & LINUX TOOLS")
 print("[+] lfi_scanner			lfi vulnerability detecter")
