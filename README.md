@@ -12,8 +12,7 @@ bash install or sudo bash install
 
 Modules:
 
-'''
----------------                 --------------------------
+```
 TERMUX & LINUX TOOLS
 [+] lfi_scanner                 lfi vulnerability detecter
 [+] dir_scanner                 admin panel finder
@@ -22,7 +21,7 @@ TERMUX & LINUX TOOLS
 [+] submit_forms_finder         website's submit forms scrapper
 LINUX TOOLS
 [+] packet_sniffer              simple http packet sniffer
-'''
+```
 
 # About me
 telegram channel - https:/t.me/termuxqew
