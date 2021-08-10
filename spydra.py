@@ -24,6 +24,7 @@ print("""+------------------------------+
 	 |github.com/fuckwbored/spydra	|
 	 |t.me/termuxqew             	|
 	 +------------------------------+
+""")
 print("\033[48;5;236m\033[38;5;231 Spydra \033[38;5;208mToolKit\033[0;0m")
 print("---------------                 --------------------------")
 print("TERMUX & LINUX TOOLS")
